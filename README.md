@@ -1,2 +1,34 @@
-# agent-ops-kits
-Editable AI-agent pilot planning, governance, readiness, and ROI resources with free previews.
+# Agent Ops Kit
+
+Editable AI-agent pilot planning, governance, readiness, and ROI resources for small businesses.
+
+**Prelaunch status:** the customer files are prepared, but storefront checkout is not yet published. No sale, customer result, saving, return, or income is claimed.
+
+## Free two-page previews
+
+- [AI-Agent Pilot scope and test worksheets](./AI-Agent-Pilot-Kit-Free-Preview.pdf)
+- [AI Agent governance check and ROI worksheet](./AI-Agent-Kit-Free-Preview.pdf)
+
+The previews contain blank worksheets. They are general business resources, not legal, compliance, financial, or security advice.
+
+## Planned digital downloads
+
+### AI-Agent Pilot Planning Kit — $15 USD
+
+- 8-page editable DOCX covering the charter, boundaries, acceptance criteria, human review, evidence, decision record, and 30-day plan
+- XLSX scorecard with eight weighted criteria, 1–5 input scoring, a 100-row test log, summary metrics, and a readiness chart
+
+The readiness score supports structured review. It is not automated approval or proof of safety, compliance, savings, or business outcomes.
+
+### AI Agent Governance + ROI Kit — $19 USD
+
+- 12-page editable DOCX covering acceptable use, data handling, human review, risk, approvals, incidents, and a 30-day rollout
+- XLSX calculator with editable assumptions, three scenarios, annual economics, first-year ROI, payback, and a comparison chart
+
+ROI results depend on the assumptions entered. No savings, return, or business outcome is guaranteed.
+
+Each kit is intended as a separate one-time digital purchase containing one DOCX and one XLSX inside a ZIP archive. No AI model, subscription, software installation, consulting service, or external account is included.
+
+## Static catalog
+
+The repository root contains the validated static catalog (`index.html`), its assets, and both preview PDFs. Checkout buttons intentionally remain labeled **Checkout link coming soon** until real product URLs exist.
