@@ -11,6 +11,11 @@ Editable AI-agent pilot planning, governance, readiness, and ROI resources for s
 
 The previews contain blank worksheets. They are general business resources, not legal, compliance, financial, or security advice.
 
+## Practical guides
+
+- [AI-Agent Pilot Checklist: 12 Questions to Answer Before You Start](./articles/ai-agent-pilot-checklist.md)
+- [How to Estimate AI-Agent ROI Without Overstating the Result](./articles/estimate-ai-agent-roi.md)
+
 ## Planned digital downloads
 
 ### AI-Agent Pilot Planning Kit — $15 USD
